@@ -1,5 +1,3 @@
-
-```markdown
 # PDF Summarization Tool
 
 This project is a PDF Summarization Tool built using Python, Streamlit, and OpenAI's GPT-4. The tool allows users to upload a PDF file, extracts text from it, and generates a concise summary using a large language model.
